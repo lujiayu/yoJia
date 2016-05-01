@@ -1,0 +1,36 @@
+.build-show{width: 1200px;margin-left: auto;margin-right: auto;border: 1px solid#79c8c3;margin-top: 30px;
+            overflow: hidden;}
+.build-show h2{text-align: center;line-height: 60px;}
+.pic-play{width: 550px;height: 400px;float: left;position: relative;margin: 0 50px;}
+.pic-play a{width:40px;height: 100px;border: 4px solid #ffffff;background: #000000;position: absolute;
+            top: 150px;font-size: 40px;text-align: center;line-height: 100px;color:#ffffff;font-weight: bold;
+            filter:alpha(opacity:60);opacity: 0.6;}
+.pic-play a:hover{filter:alpha(opacity:80);opacity: 0.8;}
+.pic-play .pre{left: 10px;}
+.pic-play .next{right: 10px;}
+.pic-play span{position: absolute;left: 0;bottom:0;width: 550px;height: 20px;line-height: 20px;
+              text-align: center;alpha(opacity: 60);opacity: 0.6;background: #000000;color: #ffffff;}
+.pic-play img{width: 550px;height: 400px;}
+
+.detail-info ul{width: 448px;height: 400px;overflow: hidden;}
+.detail-info ul li{width: 220px;float: left;line-height: 50px;}
+.detail-info .distance{padding-left: 25px;}
+.detail-info .total-price{font-size: 30px;color:#e43820;font-weight: bold; }
+.detail-info .relation-people{font-size: 20px;color: #b51904;}
+.detail-info .relation-way{width: 448px;}
+.detail-info .phone-num{font-size: 40px;color:#e43820;}
+/*房屋信息展示*/
+
+.info-show{width: 1100px;margin-left: 50px;border-top: 2px solid#79c8c3;margin-top: 50px;}
+.info-show .info-show-nav{overflow: hidden;}
+.info-show-nav .active{background: #79c8c3;}
+.info-show-nav li{float: left;width: 98px;line-height: 29px;border:1px solid#79c8c3;border-top: none;
+                  margin-right: 10px;text-align: center;}
+.info-show-nav a{color: #000000;display: block;width: 98px;line-height: 29px;}
+.info-show-nav a:hover{color: red;}
+/*长图展示*/
+.build-show{margin-bottom: 50px;}
+#room-info, #room-pic, #nearby-info{border-bottom: 1px solid#79c8c3;padding-bottom: 30px;}
+#room-info h3, #room-pic h3, #nearby-info h3{line-height: 30px;margin-top: 50px;}
+#room-info p, #nearby-info p{text-indent: 2em;}
+#nearby-info{margin-bottom: 50px;}

@@ -1,0 +1,28 @@
+#header{background: url("/basic/web/assets/image/index/banner_bg.png")no-repeat;overflow:hidden;
+        width: 100%;height: 580px;}
+.slogan{width: 400px;height: 100px;background: #ffffff;margin-left: auto;margin-right: auto;margin-top: 350px;
+        opacity: 0.7;overflow: hidden;}
+.slogan h2, .slogan h3{margin:0;display:inline-block;text-align:center;
+                       width:400px;font-weight:bold;}
+.slogan h3{font-size:18px;line-height:50px;}
+/*热门小区   */
+#warp{width: 1200px;overflow: hidden;margin-left: auto;margin-right: auto;}
+.hotTitle{padding-bottom:30px}
+.hotTitle h1{font-weight: normal;text-align: center;}
+.hotTitle p{color: #686664;text-align: center;padding: 10px 0;}
+.hotBuild{border-top: 1px solid#79c8c3;overflow: hidden;text-align: center;}
+.hotBuild dl{height: 269px;float: left;overflow: hidden;border-bottom: 1px solid#79c8c3;
+                       margin-top: 20px;margin-bottom:0px;}
+.hotBuild dl dt{width: 350px;height: 250px;position: relative;float: left;margin-right: 20px;}
+.hotBuild .text{position: absolute;z-index: 999;width: 270px;height: 130px;top: 55px;left: 35px;
+                background: #ffffff;opacity: 0.8;padding: 5px;}
+.hotBuild .text h1{font-weight: normal;text-align: center;font-size: 30px;}
+.hotBuild .text h3{font-size: 16px;text-align: center;line-height: 20px;}
+.hotBuild .text p{font-size: 12px;text-indent: 2em;line-height: 16px;}
+.hotBuild dl dd{float: left;width:250px;height: 250px;margin-left: 25px;}
+.hotBuild dl dd a{display: block;width: 250px;height: 250px;}
+.hotBasicInfo-right, .hotBasicInfo-left{overflow: hidden;float: left;width: 125px;}
+.hotBasicInfo-right li, .hotBasicInfo-left li{float: left;font-size: 14px;color: #000000;}
+.hotBasicInfo-right i, .hotBasicInfo-left i{color:#665c52; display:inline-block;margin-right: 10px;}
+.hotBuild .info-more{display: inline-block;width: 340px;border: 2px solid#79c8c3;padding: 20px;
+                   font-size: 16px;height: 60px;line-height: 20px;margin: 50px 0;}

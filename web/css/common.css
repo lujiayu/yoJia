@@ -1,0 +1,21 @@
+*{padding: 0;margin: 0;list-style: none;text-decoration: none;}
+html,body{font-family:"Arial","Microsoft YaHei","榛戜綋","瀹嬩綋",sans-serif;}
+/*缃戦〉椤堕儴瀵艰埅*/
+
+/*鍥炲埌椤堕儴*/
+.back-top{position: fixed;bottom: 50px;right: 10px;width: 50px;height: 34px;
+        text-align: center;overflow: hidden;}
+.back-top a{font-size: 40px;color: #e43820;line-height: 30px;display: block;width: 50px;height: 34px;
+           font-weight: bold;}
+.back-top a:hover{text-deraction:none;}
+/*绛涢�夊尯鍩�*/
+#menu{width: 1200px;overflow: hidden;border: 1px solid#79c8c3;margin: 20px auto;}
+.options{margin: 10px;overflow: hidden;}
+.options dt, .options dd{float: left;margin-left: 20px;}
+.options .allopt{color: #ff9000;}
+.options a{color: #665c52;}
+.options a:hover{color:#ff9000; }
+.divide-region{width: 700px;margin:10px 122px 20px;border: 1px solid#79c8c3;padding: 5px;
+               overflow: hidden;}
+.divide-region a{line-height: 26px;float: left;width: 100px;text-align: center;font-size: 14px;}
+.divide-region a:hover{color:#ff9000;}
